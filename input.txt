@@ -1,0 +1,12 @@
+Hello Team,
+
+Please send project updates to:
+project.manager@work.com
+developer01@testmail.in
+python@program.org
+python@program.org
+
+For inquiries, write to support@helpdesk.com.
+
+Regards,
+Bharat
